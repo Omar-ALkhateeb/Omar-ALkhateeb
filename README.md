@@ -1,16 +1,12 @@
-### Hi there 👋
+<!-- ### About me -->
 
-<!--
-**Omar-ALkhateeb/Omar-ALkhateeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### jack of all trades master of none.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Omar-ALkhateeb/github-readme-stats">
+<!--   <h3>Stats: </h3> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Omar-ALkhateeb&count_private=true&show_icons=true&theme=dark " />
+</a>
+<a href="https://github.com/Omar-ALkhateeb/github-readme-stats">
+<!--   <h3>Top languages: </h3> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-ALkhateeb&theme=dark&layout=compact&langs_count=8" />
+</a>
